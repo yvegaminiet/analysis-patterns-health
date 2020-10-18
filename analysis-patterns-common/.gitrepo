@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/yvegaminiet/analysis-patterns-common.git
+	branch = main
+	commit = c10cfbbdf13e2027d55793a9ee70f3ab5466c5da
+	parent = 0c3310158edf19a384f57e53d3b009f1378211a8
+	cmdver = 0.3.1
